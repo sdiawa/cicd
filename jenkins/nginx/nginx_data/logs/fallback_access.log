@@ -1,0 +1,3 @@
+[10/May/2023:18:59:29 +0000] 200 - GET http nginxproxymanager.local "/" [Client 172.25.0.1] [Length 568] [Gzip 1.86] "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" "-"
+[10/May/2023:18:59:38 +0000] 304 - GET http nginxproxymanager.local "/" [Client 172.25.0.1] [Length 0] [Gzip -] "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" "-"
+[10/May/2023:18:59:39 +0000] 304 - GET http nginxproxymanager.local "/" [Client 172.25.0.1] [Length 0] [Gzip -] "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" "-"
